@@ -1,13 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5219f41-32e5-431e-80fc-373e0533434a" name="Default Changelist" comment="" />
+    <list default="true" id="a5219f41-32e5-431e-80fc-373e0533434a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/css/open-iconic-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/fonts/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/fonts/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/fonts/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/fonts/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/fonts/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/bicycle_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/carved-rock-logo-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/carved-rock-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/mountain_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/shoe_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/shutterstock_116403520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/shutterstock_152301839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/shutterstock_422560537.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/shutterstock_690366619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/account-login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/account-logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/action-redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/action-undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/aperture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-circle-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-circle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-circle-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-thick-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-thick-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-thick-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-thick-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/arrow-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/audio-spectrum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/ban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bar-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/battery-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/battery-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/beaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/british-pound.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/bullhorn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/camera-slr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/caret-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/caret-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/caret-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/caret-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/chevron-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/chevron-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/circle-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/circle-x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cloudy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/cog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/collapse-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/collapse-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/collapse-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/collapse-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/command.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/comment-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/contrast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/copywriting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/data-transfer-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/data-transfer-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/dial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/document.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/dollar2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/double-quote-sans-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/double-quote-sans-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/double-quote-serif-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/double-quote-serif-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/droplet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/elevator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/ellipses.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/envelope-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/envelope-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/euro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/excerpt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/expand-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/expand-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/expand-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/expand-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/eyedropper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/flash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/fork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/fullscreen-enter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/fullscreen-exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/graph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/grid-four-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/grid-three-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/grid-two-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/hard-drive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/infinity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/justify-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/justify-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/justify-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/layers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/link-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/link-intact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/list-rich.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/lock-locked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/lock-unlocked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/loop-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/loop-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/map-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-skip-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-skip-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-step-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-step-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/media-stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/medical-cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/monitor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/musical-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/paperclip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/pie-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/play-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/power-standby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/pulse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/puzzle-piece.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/question-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/random.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/resize-both.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/resize-height.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/resize-width.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/rss-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/script.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/share-boxed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/shield.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/signpost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/sort-ascending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/sort-descending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/spreadsheet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/target.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/task.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/thumb-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/thumb-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/timer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/transfer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/underline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/vertical-align-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/vertical-align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/vertical-align-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/volume-high.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/volume-low.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/volume-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/wifi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/yen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/images/svg/zoom-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-Creating-and-using-map/js/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/css/open-iconic-bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/css/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/fonts/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/fonts/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/fonts/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/fonts/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/fonts/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/bicycle_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/carved-rock-logo-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/carved-rock-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/mountain_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/shoe_Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/shutterstock_116403520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/shutterstock_152301839.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/shutterstock_422560537.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/shutterstock_690366619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/account-login.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/account-logout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/action-redo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/action-undo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/align-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/align-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/aperture.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-circle-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-circle-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-circle-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-circle-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-thick-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-thick-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-thick-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-thick-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/arrow-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/audio-spectrum.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/audio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/ban.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bar-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/basket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/battery-empty.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/battery-full.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/beaker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bell.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bluetooth.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bolt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bookmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/box.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/british-pound.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/browser.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/brush.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bug.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/bullhorn.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/calculator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/camera-slr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/caret-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/caret-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/caret-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/caret-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/chat.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/chevron-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/chevron-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/chevron-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/circle-check.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/circle-x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/clipboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cloud-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cloud-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cloud.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cloudy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/code.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/cog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/collapse-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/collapse-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/collapse-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/collapse-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/command.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/comment-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/compass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/contrast.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/copywriting.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/credit-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/crop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/dashboard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/data-transfer-download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/data-transfer-upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/dial.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/document.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/dollar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/dollar2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/double-quote-sans-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/double-quote-sans-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/double-quote-serif-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/double-quote-serif-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/droplet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/eject.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/elevator.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/ellipses.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/envelope-closed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/envelope-open.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/euro.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/excerpt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/expand-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/expand-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/expand-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/expand-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/eyedropper.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/file.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/fire.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/flash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/folder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/fork.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/fullscreen-enter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/fullscreen-exit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/globe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/graph.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/grid-four-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/grid-three-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/grid-two-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/hard-drive.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/headphones.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/image.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/inbox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/infinity.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/info.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/justify-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/justify-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/justify-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/key.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/laptop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/layers.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/lightbulb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/link-broken.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/link-intact.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/list-rich.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/location.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/lock-locked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/lock-unlocked.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/loop-circular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/loop-square.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/loop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/magnifying-glass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/map-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-pause.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-record.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-skip-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-skip-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-step-backward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-step-forward.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/media-stop.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/medical-cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/microphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/monitor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/move.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/musical-note.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/paperclip.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/pencil.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/people.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/phone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/pie-chart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/play-circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/power-standby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/print.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/project.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/pulse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/puzzle-piece.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/question-mark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/random.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/reload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/resize-both.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/resize-height.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/resize-width.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/rss-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/rss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/script.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/share-boxed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/share.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/shield.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/signal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/signpost.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/sort-ascending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/sort-descending.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/spreadsheet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/star.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/sun.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/tablet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/tags.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/target.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/task.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/terminal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/thumb-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/thumb-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/timer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/transfer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/underline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/vertical-align-bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/vertical-align-center.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/vertical-align-top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/video.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/volume-high.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/volume-low.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/volume-off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/warning.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/wifi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/wrench.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/x.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/yen.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/zoom-in.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/images/svg/zoom-out.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5-Exploring-Typed-Arrays/js/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W1rzKkHvKZiqS0wzyI3R7QieKD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,25 +509,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3-Waorking-with-Set" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/5-Exploring-Typed-Arrays" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\PROJECTS\JS\JAVASCRIPT\COURSES&amp;BOOKS\COURSES\PLURALSIGHT\JavaScript-Arrays-and-Collections\5-Exploring-Typed-Arrays" />
+      <recent name="G:\PROJECTS\JS\JAVASCRIPT\COURSES&amp;BOOKS\COURSES\PLURALSIGHT\JavaScript-Arrays-and-Collections\4-Creating-and-using-map" />
       <recent name="D:\PROJECTS\JS_PROJECTS\JAVASCRIPT\EBOOKS_AND_COURSES\COURSES\PLURALSIGHT\JavaScript Arrays and Collections\3-Waorking-with-Set" />
       <recent name="D:\PROJECTS\JS_PROJECTS\JAVASCRIPT\EBOOKS_AND_COURSES\COURSES\PLURALSIGHT\JavaScript Arrays and Collections\2" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -50,11 +547,27 @@
       <workItem from="1578328206282" duration="3356000" />
       <workItem from="1578383811503" duration="7132000" />
       <workItem from="1578423127893" duration="3370000" />
+      <workItem from="1578513649016" duration="2655000" />
+      <workItem from="1578801396835" duration="2238000" />
+      <workItem from="1578907450908" duration="867000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="243" key="SettingsEditor" timestamp="1578330697070">
